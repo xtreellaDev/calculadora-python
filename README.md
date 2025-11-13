@@ -7,7 +7,7 @@ La aplicación ya es **funcional**, permitiendo realizar operaciones matemática
 Se utiliza como ejercicio para reforzar conceptos como:
 - Bucles (`while`, `for`)
 - Control de flujo (`match-case`)
-- -Control de versiones
+- Control de versiones
 
 ---
 
@@ -33,9 +33,10 @@ Este proyecto seguirá evolucionando con nuevas características:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/xtreellaDev/calculadora-python.git
+1. Dirigete a la ubicación del archivo:
 
-      ```bash
+   ```bash
    cd calculadora-python
-
-      ```bash
+3. Ejecutalo en cmd:
+   ```bash
    python3 calculadora-python.py
